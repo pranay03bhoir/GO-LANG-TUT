@@ -1,6 +1,6 @@
-# This is a fantastic piece of code to study! You have stumbled upon one of the most powerful and slightly "magical" concepts in programming called a **Closure**.
+# This is a fantastic piece of code to study! You have stumbled upon one of the most powerful and slightly "magical" concepts in programming called a **Closure**
 
-## Here is the breakdown of what is happening, explained in simple terms.
+## Here is the breakdown of what is happening, explained in simple terms
 
 ### 1. The Output
 
