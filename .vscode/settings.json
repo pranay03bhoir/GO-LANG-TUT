@@ -1,3 +1,5 @@
 {
-    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace"
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.defaultProfile.osx": ""
 }
