@@ -1,1 +1,1 @@
-# Learning Intermediate goLang.
+# Learning Intermediate goLang
